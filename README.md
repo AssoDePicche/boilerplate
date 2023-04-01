@@ -4,6 +4,14 @@ Boilerplate project
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](./LICENSE)
 
+## Project Structure
+
+1. `src:` source code
+
+2. `tests:` automated tests
+
+3. `vendor:` external libraries
+
 ## Contributing
 
 To contribuit to this project [follow these steps](./CONTRIBUTING).
