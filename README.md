@@ -21,7 +21,7 @@ To contribuit to this project [follow these steps](./CONTRIBUTING).
 1. Clone this repository
 
 ```bash
-git clone https://github.com/AssoDePicche/boilerplate.git
+git clone git@github.com:AssoDePicche/boilerplate.git
 ```
 
 2. Update it with your needs
